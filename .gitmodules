@@ -1,0 +1,39 @@
+[submodule "freebsd-ports"]
+	path = freebsd-ports
+	url = https://github.com/freebsd/freebsd-ports.git
+[submodule "freebsd"]
+	path = freebsd
+	url = https://github.com/freebsd/freebsd.git
+[submodule "freebsd-doc"]
+	path = freebsd-doc
+	url = https://github.com/freebsd/freebsd-doc.git
+[submodule "pkg"]
+	path = pkg
+	url = https://github.com/freebsd/pkg.git
+[submodule "portmaster"]
+	path = portmaster
+	url = https://github.com/freebsd/portmaster.git
+[submodule "freebsd-wifi-build"]
+	path = freebsd-wifi-build
+	url = https://github.com/freebsd/freebsd-wifi-build.git
+[submodule "bugzilla"]
+	path = bugzilla
+	url = https://github.com/freebsd/bugzilla.git
+[submodule "portupgrade"]
+	path = portupgrade
+	url = https://github.com/freebsd/portupgrade.git
+[submodule "libdevq"]
+	path = libdevq
+	url = https://github.com/freebsd/libdevq.git
+[submodule "freebsd-ci"]
+	path = freebsd-ci
+	url = https://github.com/freebsd/freebsd-ci.git
+[submodule "PortCI"]
+	path = PortCI
+	url = https://github.com/freebsd/PortCI.git
+[submodule "pkg_install"]
+	path = pkg_install
+	url = https://github.com/freebsd/pkg_install.git
+[submodule "pkg-plugins"]
+	path = pkg-plugins
+	url = https://github.com/freebsd/pkg-plugins.git
